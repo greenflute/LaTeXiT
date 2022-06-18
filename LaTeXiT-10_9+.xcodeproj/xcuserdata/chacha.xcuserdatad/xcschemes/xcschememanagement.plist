@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>All compilations Deployment.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>All compilations copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Apply Sparkle DSA keys copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>Apply Sparkle DSA keys.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Automator-CreateEquations.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>LaTeXiT App extension XPC Service.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>LaTeXiT Helper.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>LaTeXiT XPC Service.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>LaTeXiT.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>LaTeXiT_AppExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Package as DMG.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Request notarization copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8D15AC270486D014006FF6A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9344B98E0E8CF38700FE90A5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>934AAA060F3388450010E384</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>934AAA120F33887F0010E384</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>93791EB82526485B00B1AD26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>938DBD4C10BDC2E0002350CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9396E5440EC628C30014C4BD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9396E9680EC843190014C4BD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>93BD651D0E8D08EC00DB341B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>93DD06352358D87B008252BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>93DD063A2358DBF9008252BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>93DD0641235AE978008252BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

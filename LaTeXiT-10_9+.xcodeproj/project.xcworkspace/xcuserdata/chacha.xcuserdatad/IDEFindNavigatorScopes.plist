@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Source code</string>
+		<key>predicate</key>
+		<dict>
+			<key>predicates</key>
+			<array>
+				<dict>
+					<key>path-components</key>
+					<array/>
+					<key>rule</key>
+					<string>workspace-location</string>
+				</dict>
+				<dict>
+					<key>operand</key>
+					<string>js</string>
+					<key>operator</key>
+					<string>is-not-equal-to</string>
+					<key>rule</key>
+					<string>file-extension</string>
+				</dict>
+				<dict>
+					<key>operand</key>
+					<string>html</string>
+					<key>operator</key>
+					<string>is-equal-to</string>
+					<key>rule</key>
+					<string>file-name</string>
+				</dict>
+			</array>
+			<key>rule</key>
+			<string>all</string>
+		</dict>
+		<key>source</key>
+		<dict>
+			<key>file-source</key>
+			<string>workspace</string>
+		</dict>
+	</dict>
+</array>
+</plist>
